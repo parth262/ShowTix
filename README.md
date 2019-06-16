@@ -14,7 +14,7 @@ It provides following features
     method: POST
     path: show-tix/v1/events/event_name
     body: {
-    tickets: 200
+        tickets: 200
     }
     ```
      
